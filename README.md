@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChagasLk27
 - 👀 I’m interested in delevopment focused on back-end
-- 🌱 I’m currently learning Python, JavaScrypt and Java
+- 🌱 I’m currently learning Spring boot, Azure cloud
 - 💞️ I’m looking to collaborate on projects in the community and companies
  
 📫 How to reach me:
